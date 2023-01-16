@@ -1,2 +1,2 @@
 # LeetCode
-My solutions to various problems on leetcode.com, which I'm using to brush up on my Python skills.
+My solutions to various problems on <a>https://leetcode.com/</a>, which I'm using to brush up on my Python skills.
